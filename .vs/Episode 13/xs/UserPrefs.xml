@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B7F7B0F3-D523-C652-9853-ED3E9E0E60AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Difficulty.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="47" Column="33" />
+      <File FileName="Assets/FallingBlock.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Difficulty.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="38" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Episode 13" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Difficulty.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="59ab0494-6e83-4a55-9e45-7993832b82f9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
